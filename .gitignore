@@ -1,0 +1,43 @@
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build and dependency folders
+bin/
+build/
+.gradle/
+nbbuild/
+dist/
+nbdist/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+x
+# Misc
+$RECYCLE.BIN/
