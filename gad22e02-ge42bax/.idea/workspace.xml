@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c1288e3-39e7-4f9d-9fa9-eb455114435d" name="Changes" comment="uni try">
+      <change beforePath="$PROJECT_DIR$/src/gad/binarysearch/BinSea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gad/binarysearch/BinSea.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28y3kXGsVOORDlZmEs4fEGR4fRg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.BinSea">
+    <configuration name="BinSea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gad.binarysearch.BinSea" />
+      <module name="Aufgabe 2 - Binaere Suche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gad.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gad.binarysearch.StudentResult" />
+      <module name="Aufgabe 2 - Binaere Suche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gad.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoundSearch (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabe 2 - Binaere Suche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gad.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gad.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="gad.binarysearch.BoundSearch" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoundSearch.testSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabe 2 - Binaere Suche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gad.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gad.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="gad.binarysearch.BoundSearch" />
+      <option name="METHOD_NAME" value="testSearch(int[],int,boolean,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabe 2 - Binaere Suche" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gad.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="gad.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="gad.binarysearch.SimpleSearch" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinSea" />
+        <item itemvalue="JUnit.BoundSearch (1)" />
+        <item itemvalue="JUnit.SimpleSearch" />
+        <item itemvalue="JUnit.BoundSearch.testSearch" />
+        <item itemvalue="Application.StudentResult" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c1288e3-39e7-4f9d-9fa9-eb455114435d" name="Changes" comment="" />
+      <created>1652175141209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652175141209</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2nd try">
+      <created>1652366170579</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1652366170579</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2nd try">
+      <created>1652399306857</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1652399306857</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2nd try">
+      <created>1652399812411</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1652399812411</updated>
+    </task>
+    <task id="LOCAL-00013" summary="night try">
+      <created>1652666939267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1652666939267</updated>
+    </task>
+    <task id="LOCAL-00014" summary="night try">
+      <created>1652667042399</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1652667042399</updated>
+    </task>
+    <task id="LOCAL-00015" summary="night try">
+      <created>1652667426498</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1652667426498</updated>
+    </task>
+    <task id="LOCAL-00016" summary="night try">
+      <created>1652700898598</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1652700898598</updated>
+    </task>
+    <task id="LOCAL-00017" summary="night try">
+      <created>1652701171561</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1652701171561</updated>
+    </task>
+    <task id="LOCAL-00018" summary="night try">
+      <created>1652701498538</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1652701498538</updated>
+    </task>
+    <task id="LOCAL-00019" summary="night try">
+      <created>1652702674787</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1652702674787</updated>
+    </task>
+    <task id="LOCAL-00020" summary="night try">
+      <created>1652711569313</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1652711569313</updated>
+    </task>
+    <task id="LOCAL-00021" summary="night try">
+      <created>1652712623194</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1652712623194</updated>
+    </task>
+    <task id="LOCAL-00022" summary="night try">
+      <created>1652713992155</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1652713992155</updated>
+    </task>
+    <task id="LOCAL-00023" summary="night try">
+      <created>1652714297190</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1652714297190</updated>
+    </task>
+    <task id="LOCAL-00024" summary="night try">
+      <created>1652714378723</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1652714378723</updated>
+    </task>
+    <task id="LOCAL-00025" summary="night try">
+      <created>1652715125152</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1652715125153</updated>
+    </task>
+    <task id="LOCAL-00026" summary="night try">
+      <created>1652715622406</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1652715622406</updated>
+    </task>
+    <task id="LOCAL-00027" summary="uni try">
+      <created>1652715707917</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1652715707917</updated>
+    </task>
+    <task id="LOCAL-00028" summary="uni try">
+      <created>1652733411846</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1652733411846</updated>
+    </task>
+    <task id="LOCAL-00029" summary="uni try">
+      <created>1652733688500</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1652733688500</updated>
+    </task>
+    <task id="LOCAL-00030" summary="uni try">
+      <created>1652734003297</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1652734003297</updated>
+    </task>
+    <task id="LOCAL-00031" summary="uni try">
+      <created>1652734047212</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1652734047212</updated>
+    </task>
+    <task id="LOCAL-00032" summary="uni try">
+      <created>1652734514077</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1652734514077</updated>
+    </task>
+    <task id="LOCAL-00033" summary="uni try">
+      <created>1652734553104</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1652734553104</updated>
+    </task>
+    <task id="LOCAL-00034" summary="uni try">
+      <created>1652734703327</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1652734703327</updated>
+    </task>
+    <task id="LOCAL-00035" summary="uni try">
+      <created>1652736179399</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1652736179399</updated>
+    </task>
+    <task id="LOCAL-00036" summary="uni try">
+      <created>1652736650766</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1652736650766</updated>
+    </task>
+    <task id="LOCAL-00037" summary="uni try">
+      <created>1652736749737</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1652736749737</updated>
+    </task>
+    <task id="LOCAL-00038" summary="uni try">
+      <created>1652737059697</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1652737059697</updated>
+    </task>
+    <task id="LOCAL-00039" summary="uni try">
+      <created>1652737170271</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1652737170271</updated>
+    </task>
+    <task id="LOCAL-00040" summary="uni try">
+      <created>1652737282236</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1652737282236</updated>
+    </task>
+    <task id="LOCAL-00041" summary="uni try">
+      <created>1652781126674</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1652781126674</updated>
+    </task>
+    <task id="LOCAL-00042" summary="uni try">
+      <created>1652789508147</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1652789508147</updated>
+    </task>
+    <task id="LOCAL-00043" summary="uni try">
+      <created>1652790024431</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1652790024431</updated>
+    </task>
+    <task id="LOCAL-00044" summary="uni try">
+      <created>1652791483804</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1652791483804</updated>
+    </task>
+    <task id="LOCAL-00045" summary="uni try">
+      <created>1652792190419</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1652792190419</updated>
+    </task>
+    <task id="LOCAL-00046" summary="uni try">
+      <created>1652792259080</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1652792259080</updated>
+    </task>
+    <task id="LOCAL-00047" summary="uni try">
+      <created>1652792546226</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1652792546226</updated>
+    </task>
+    <task id="LOCAL-00048" summary="uni try">
+      <created>1652792776989</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1652792776989</updated>
+    </task>
+    <task id="LOCAL-00049" summary="uni try">
+      <created>1652792895664</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1652792895664</updated>
+    </task>
+    <task id="LOCAL-00050" summary="uni try">
+      <created>1652793201175</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1652793201175</updated>
+    </task>
+    <task id="LOCAL-00051" summary="uni try">
+      <created>1652793490980</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1652793490980</updated>
+    </task>
+    <task id="LOCAL-00052" summary="uni try">
+      <created>1652793890329</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1652793890329</updated>
+    </task>
+    <task id="LOCAL-00053" summary="uni try">
+      <created>1652793938005</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1652793938005</updated>
+    </task>
+    <task id="LOCAL-00054" summary="uni try">
+      <created>1652793998594</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1652793998595</updated>
+    </task>
+    <task id="LOCAL-00055" summary="uni try">
+      <created>1652794160581</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1652794160581</updated>
+    </task>
+    <task id="LOCAL-00056" summary="uni try">
+      <created>1652794677433</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1652794677433</updated>
+    </task>
+    <task id="LOCAL-00057" summary="uni try">
+      <created>1652795294411</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1652795294411</updated>
+    </task>
+    <task id="LOCAL-00058" summary="uni try">
+      <created>1652795340200</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1652795340200</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st try" />
+    <MESSAGE value="2nd try" />
+    <MESSAGE value="night try" />
+    <MESSAGE value="uni try" />
+    <option name="LAST_COMMIT_MESSAGE" value="uni try" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gad/binarysearch/SimpleSearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gad/binarysearch/StudentResult.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gad/binarysearch/IntervalSearch.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gad/binarysearch/IntervalSearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
